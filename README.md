@@ -25,11 +25,7 @@ This project focuses on **classifying Alzheimer's disease stages** using MRI bra
 
 The dataset consists of MRI brain scans categorized into dementia stages. Ensure the dataset is structured properly before running the notebook.  
 
-## 🚀 How to Use  
+📌 Future Improvements
 
-1. Clone the repository:  
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
-
-Let me know if you’d like to include any **CNN architecture details** or **model performance metrics**! 🚀
+Fine-tuning the CNN architecture for better classification performance.
+Expanding the dataset for improved generalization.
