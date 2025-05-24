@@ -1,7 +1,7 @@
 # Mohan_Kabade_Projects_
 # 🧠 Alzheimer's Disease Classification  
 
-This project focuses on **classifying Alzheimer's disease stages** using MRI brain images. The dataset is categorized into different stages:  
+This project focuses on **classifying Alzheimer's disease stages** using MRI brain images with a **Convolutional Neural Network (CNN)** for enhanced performance. The dataset is categorized into different stages:  
 
 - **Non-Demented**  
 - **Very Mild Demented**  
@@ -12,14 +12,14 @@ This project focuses on **classifying Alzheimer's disease stages** using MRI bra
 
 - **Data Preprocessing**: Image resizing, normalization, and dataset organization.  
 - **Visualization**: Displaying brain scans for different dementia stages.  
-- **Machine Learning Integration**: Prepares data for training AI models.  
+- **Deep Learning Model**: CNN architecture for accurate stage classification.  
 
 ## 🛠️ Tech Stack  
 
 - Python  
 - NumPy, Pandas  
 - Matplotlib, PIL  
-- Scikit-learn  
+- TensorFlow / Keras  
 
 ## 📂 Dataset  
 
@@ -31,14 +31,5 @@ The dataset consists of MRI brain scans categorized into dementia stages. Ensure
    ```bash
    git clone <repository-url>
    cd <repository-folder>
-   ```  
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```  
-3. Run the Jupyter Notebook to preprocess and visualize the data.  
 
-## 📌 Future Improvements  
-
-- Implementing a deep learning model (CNN) for better classification.  
-- Expanding dataset size for improved accuracy.  
+Let me know if you’d like to include any **CNN architecture details** or **model performance metrics**! 🚀
